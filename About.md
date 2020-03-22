@@ -1,4 +1,4 @@
-**Background-Color-Changer**
+#Background-Color-Changer
 
 This mini-project is about changing the background color of your web page.
 
