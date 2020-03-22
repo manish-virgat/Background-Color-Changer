@@ -1,12 +1,7 @@
-# Small-Projects
-This repository contains few basic and mini projects made using HTML, CSS and JavaScript
-All projects are made by Manish Virgat. Leave a star if you like!
+# Background Color Changer
 
+## This mini-project is about changing the background color of your web page.
 
-My HackerRank profile: https://www.hackerrank.com/V4mp1r3
+## This is entirely made using HTML, CSS and JavaScript.
 
-Connect with me on LinkedIn: https://www.linkedin.com/in/manishvirgat/
-
-Read my blogs: https://medium.com/@manish.virgat
-
-Follow me on Twitter: https://twitter.com/manish_virgat
+### This mini-project is made by Manish Virgat.
